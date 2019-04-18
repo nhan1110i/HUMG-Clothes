@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #9f9c9c;
+}
+.sell-content{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+    border: 1px solid #efebeb;
+}
+.product-choose{
+    overflow: scroll;
+    height: 300px;
+}

@@ -1,0 +1,141 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="HUMG_Clothes.Home" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Bò sữa by BOO</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="CSSJS/index.css" rel="stylesheet" />
+    <link href="CSSJS/ProductDetail.css" rel="stylesheet" />
+    <link href="CSSJS/Female.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&amp;subset=vietnamese" rel="stylesheet">
+    <link href="https://unpkg.com/ionicons@4.4.8/dist/css/ionicons.min.css" rel="stylesheet">
+    <script src="CSSJS/index.js"></script>
+</head>
+<body>
+    <form runat="server">
+        <!--Logo-->
+        <div class="index__header">
+
+            <a href="Home.aspx">
+                <img src="HomeImage/logo.png" class="index__header--logo"></a>
+        </div>
+
+        <!--Menu-->
+        <div class="navbar navbar-default index__menu ff">
+            <ul class="nav navbar-nav index__menu--list">
+                <li><a href="#" class="index__menu--list-item">HÀNG MỚI</a></li>
+                <li>
+                    <a href="?page=FemaleClothes" class="index__menu--list-item dropdown-toggle" id="dropdown-1" data-toggle="dropdown">NỮ</a>
+                    <ul class="dropdown-menu" id="dropdown-menu-1">
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-item index__menu--dropdown-item dropdown-toggle" data-toggle="dropdown">Áo</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="?page=FemaleClothes&Category=4" class="dropdown-item index__menu--dropdown-item">Áo sát nách</a></li>
+                                <li><a href="?page=FemaleClothes&Category=5" class="dropdown-item index__menu--dropdown-item">Áo thun</a></li>
+                                <li><a href="?page=FemaleClothes&Category=7" class="dropdown-item index__menu--dropdown-item">Áo dài tay - Hoodies</a></li>
+                                <li><a href="?page=FemaleClothes&Category=8" class="dropdown-item index__menu--dropdown-item">Sơ mi</a></li>
+                                <li><a href="?page=FemaleClothes&Category=9" class="dropdown-item index__menu--dropdown-item">Áo len</a></li>
+                                <li><a href="?page=FemaleClothes&Category=10" class="dropdown-item index__menu--dropdown-item">Áo khoác</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-item index__menu--dropdown-item dropdown-toggle" data-toggle="dropdown">Quần</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#" class="dropdown-item index__menu--dropdown-item">Quần váy</a></li>
+                                <li><a href="?page=FemaleClothes&Category=11" class="dropdown-item index__menu--dropdown-item">Quần shorts</a></li>
+                                <li><a href="?page=FemaleClothes&Category=15" class="dropdown-item index__menu--dropdown-item">Quần dài</a></li>
+                                <li><a href="?page=FemaleClothes&Category=13" class="dropdown-item index__menu--dropdown-item">Quần Jogger</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-item index__menu--dropdown-item dropdown-toggle" data-toggle="dropdown">Váy</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#" class="dropdown-item index__menu--dropdown-item">Váy/Đầm</a></li>
+                                <li><a href="#" class="dropdown-item index__menu--dropdown-item">Chân váy</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" class="dropdown-item index__menu--dropdown-item">Denim</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="index__menu--list-item dropdown-toggle" id="dropdown-2" data-toggle="dropdown">NAM</a>
+                    <ul class="dropdown-menu" id="dropdown-menu-2">
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-item index__menu--dropdown-item dropdown-toggle" data-toggle="dropdown">Áo</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="?page=MaleClothes&Category=4" class="dropdown-item index__menu--dropdown-item">Áo sát nách</a></li>
+                                <li><a href="?page=MaleClothes&Category=5" class="dropdown-item index__menu--dropdown-item">Áo thun</a></li>
+                                <li><a href="?page=MaleClothes&Category=7" class="dropdown-item index__menu--dropdown-item">Áo dài tay - Hoodies</a></li>
+                                <li><a href="?page=MaleClothes&Category=8" class="dropdown-item index__menu--dropdown-item">Áo sơ mi</a></li>
+                                <li><a href="?page=MaleClothes&Category=9" class="dropdown-item index__menu--dropdown-item">Áo len</a></li>
+                                <li><a href="?page=MaleClothes&Category=10" class="dropdown-item index__menu--dropdown-item">Áo khoác</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-item index__menu--dropdown-item dropdown-toggle" data-toggle="dropdown">Quần</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="?page=MaleClothes&Category=11" class="dropdown-item index__menu--dropdown-item">Quần shorts</a></li>
+                                <li><a href="?page=MaleClothes&Category=15" class="dropdown-item index__menu--dropdown-item">Quần dài</a></li>
+                                <li><a href="?page=MaleClothes&Category=13" class="dropdown-item index__menu--dropdown-item">Quần Jogger</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" class="dropdown-item index__menu--dropdown-item">Denim</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="margin: 0 !important">
+                <li><a href="?page=SearchOrder" class="index__menu--list-item">TRA CỨU ĐƠN HÀNG</a></li>
+                <li><a href="?page=Cart" class="index__menu--list-item">GIỎ HÀNG</a></li>
+            </ul>
+        </div>
+
+        <asp:ContentPlaceHolder ID="cplHome" runat="server">
+        </asp:ContentPlaceHolder>
+        <div class="container index__footer ff">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-sx-12">
+                <p class="mt-20 index__footer--title">TÀI KHOẢN</p>
+                <hr>
+                <ul class="index__footer--ul">
+                    <li><a href="#" class="index__footer--li">Giỏ hàng</a></li>
+                    <li><a href="#" class="index__footer--li">Sản phẩm yêu thích</a></li>
+                    <li><a href="#" class="index__footer--li">Lịch sử xem hàng</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-sx-12">
+                <p class="mt-20 index__footer--title">DANH MỤC SẢN PHẨM</p>
+                <hr>
+                <ul class="index__footer--ul">
+                    <li><a href="?page=FemaleClothes&Category" class="index__footer--li">NỮ</a></li>
+                    <li><a href="?page=MaleClothes" class="index__footer--li">NAM</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-sx-12">
+                <p class="mt-20 index__footer--title">LIÊN HỆ</p>
+                <hr>
+                <ul class="index__footer--ul">
+                    <li><a href="#" class="index__footer--li">Địa chỉ cửa hàng</a></li>
+                    <li><a href="#" class="index__footer--li">Về chúng tôi</a></li>
+                    <li><a href="#" class="index__footer--li">Hướng dẫn mua hàng online</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-sx-12">
+                <p class="mt-20 index__footer--title">CHÍNH SÁCH VÀ QUY ĐỊNH</p>
+                <hr>
+                <ul class="index__footer--ul">
+                    <li><a href="#" class="index__footer--li">Quy định và hình thứ thanh toán</a></li>
+                    <li><a href="#" class="index__footer--li">Chính sách vận chuyển / giao nhận</a></li>
+                    <li><a href="#" class="index__footer--li">Chính sách bảo hành / bảo trì</a></li>
+                    <li><a href="#" class="index__footer--li">Chính sách đổi / trả và hoàn tiền</a></li>
+                    <li><a href="#" class="index__footer--li">Chính sách bảo mật và chia sẻ thông tin</a></li>
+                </ul>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

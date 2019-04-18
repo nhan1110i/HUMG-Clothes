@@ -1,0 +1,87 @@
+﻿body {
+}
+.ff{
+    font-family: 'Roboto Condensed';
+}
+.fs-16{
+	font-size: 1.067rem;
+}
+.fs-18{
+	font-size: 1.2rem;
+}
+.fw-700{
+	font-weight: 700;
+}
+.checkout{
+	border: 1px solid #ccc;
+}
+.checkout__title{
+	font-size: 1.13rem;
+}
+.checkout__info, .checkout__payment-method, .checkout__confirm, .checkout__price{
+	margin-top: 2rem;
+}
+.checkout__input--name, .checkout__input--telephone, .checkout_input--email, .checkout__input--address, .checkout__input--district, .checkout__input--city, .checkout__price--input-note{
+	display: block;
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin-bottom: 1rem;
+    width: 100%;
+}
+.checkout__input--address, .checkout__price--input-note{
+	height: 100px;
+}
+.checkout__banklist span{
+    margin: 2px;
+    cursor: pointer;
+    padding: 2px;
+	transition: height 2s;
+	display: none;
+}
+.checkout__banklist span:hover, .checkout__backlist span:focus{
+	background: #ccc;
+}
+.checkout__confirm--img{
+    width: 150px;
+	margin-bottom: 1rem;
+}
+.checkout__confirm--img--name{
+	font-size: 1.13rem;
+	color: #555;
+}
+.checkout__confirm--price{
+	color: #ed1c24;
+}
+.checkout__price{
+	
+}
+.checkout__price--price, .checkout__price--total-price{
+	float: right;
+}
+.checkout__price--note, .checkout__price--total-price{
+	color: #ed1c24;
+}
+.checkout__price--discount{
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.checkout__price--btn, .checkout__price--confirm-btn{
+	background-color: #ed1c24;
+	border: none;
+	color: #fff;
+	margin-bottom: 1rem;
+	height: 36px;
+}
+.checkout__price--btn:hover, .checkout__price--confirm-btn:hover{
+	background-color: #ccc;
+}
+.checkout__price--btn{
+    width: 72px;
+}
+.checkout__price--confirm-btn{
+	width: 140px;
+}
+*:focus{
+	outline: none;
+}

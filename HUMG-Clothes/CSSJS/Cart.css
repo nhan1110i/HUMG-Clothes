@@ -1,0 +1,57 @@
+﻿body {
+}
+.ff{
+	font-family: 'Roboto Condensed';
+}
+.giohang__table{
+	font-size: 1.067rem;
+	margin-top: 3rem;
+}
+.table-bordered>tbody>tr>td,.table-bordered>thead>tr>td, .table-bordered>tfoot>tr>td{
+	border: none !important;
+	border-top: 1px solid #ccc !important;
+}
+.giohang__table--link{
+	color: #555;
+}
+.giohang__table--link:hover{
+	text-decoration: none;
+}
+.giohang__table--link:focus{
+	text-decoration: none;
+	color: #555;
+}
+.giohang__table--img{
+	width: 70px;
+    height: 80px;
+	margin-right: 0.5rem;
+}
+.giohang__table--del-btn{
+	background-color: transparent;
+	border: none;
+}
+.giohang__table--del-btn:hover{
+	border: 1px solid #ccc;
+}
+.giohang__btn{
+	margin-top: 1rem;
+}
+.giohang__btn--buyanother-btn, .giohang__btn--checkout-btn{
+	border: none;
+	padding: 10px;
+}
+.giohang__btn--buyanother-btn{
+	color: #666;
+	background-color: #ddd;
+}
+.giohang__btn--checkout-btn{
+	color: #fff;
+	background-color: #e15452;
+	float: right;
+}
+.giohang__btn--checkout-btn:hover{
+	background-color: #888;
+}
+*:focus{
+	outline: none;
+}

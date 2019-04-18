@@ -1,0 +1,39 @@
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\bin\Debug\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes.DTO\HUMG-Clothes.DTO\obj\Debug\HUMG-Clothes.DTO.pdb

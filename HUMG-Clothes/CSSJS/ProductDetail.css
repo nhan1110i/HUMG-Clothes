@@ -1,0 +1,130 @@
+﻿body {
+}
+html{
+    font-size: 15px !important;
+}
+.ff {
+    font-family: 'Roboto Condensed'
+}
+.fs-16{
+    font-size: 16px;
+}
+.fw-500{
+    font-weight: 500;
+}
+.mb-0{
+    margin-bottom: 0;
+}
+.pd-15{
+    padding-left: 1rem;
+}
+.index__header--logo{
+    display: block;
+    margin: 0 auto;
+    margin-top: 1.33rem;
+}
+.index__menu{
+    background-color: #fff !important;
+    border: none !important;
+    margin-bottom: 0 !important;
+}
+.index__menu--list{
+    padding-left: 1rem !important;
+}
+.index__menu--list-item{
+    font-size: 1.13rem;
+}
+.index__menu--list-item:hover{
+    color: #e15452 !important;
+}
+.index__menu--dropdown-item{
+    font-size: 1.1rem;
+}
+.index__menu--dropdown-item:hover{
+    color: #dc3912 !important;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-submenu{
+    position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+}
+.chitietsanpham{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 3rem;
+}
+.chitietsanpham__img--slide-img{
+    text-align: center;
+}
+.chitietsanpham__img--slide-small-img{
+    width: 80px;
+}
+.chitietsanpham__detail{
+    color: #666;
+	padding-left: 2rem !important;
+}
+.chitietsanpham__detail--name{
+    margin-top: 0;
+    text-transform: uppercase;
+}
+.chitietsanpham__detail--color{
+    display: inline-block;
+    background: #fff;
+    border: 1px solid #fff;
+    width: 1.67rem;
+    box-shadow: 0 0 0 1px #b8b8b8;
+    height: 1.67rem;
+    margin-left: 1.2rem;
+}
+.chitietsanpham__detail--size{
+    color: #666;
+    padding: 0.33rem 0.67rem;
+    background-color: #f8f8f8;
+}
+.chitietsanpham__detail--size:focus{
+    border: 1px solid #dc3912;
+}
+.chitietsanpham__detail--size:hover{
+    text-decoration: none;
+}
+.chitietsanpham__detail--size:focus{
+    text-decoration: none;
+}
+.chitietsanpham__detail--price{
+    color: #dc3912;
+    font-size: 1.67rem;
+    display: inline;
+}
+.chitietsanpham__detail-discount-price{
+    color: #ccc;
+    font-size: 1.2rem;
+    margin-left: 0.67rem;
+}
+.chitietsanpham__detail--check{
+    background-color: #f8f8f8;
+    padding: 0.67rem;
+    margin-top: 1.33rem;
+}
+.chitietsanpham__detail--buybtn {
+    background-color: #dc3912;
+    border: none;
+    height: 3.33rem;
+    color: #fff;
+    padding-left: 1.33rem;
+    padding-right: 1.33rem;
+    font-size: 1.33rem;
+    margin-left: 1rem;
+}
+.chitietsanpham__detail--buybtn:hover{
+    background-color: #666;
+}
+.chitietsanpham__detail--shopicon{
+    margin-right: 0.67rem;
+    font-size: 2rem;
+}

@@ -1,0 +1,148 @@
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181018\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181021\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\Karpach.WebControls.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\Karpach.WebControls.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+G:\_TN94\GitHub\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181122\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181123\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181125\HUMG-Clothes\HUMG-Clothes\bin\CollectionPager.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\CollectionPager.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181207\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\CollectionPager.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG_Clothes.Admin.Reports.ProductReports.resources
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csproj.GenerateResource.Cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll.licenses
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20181222\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll.config
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\CkEditor.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\CKEditor.NET.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\CollectionPager.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.BLL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DTO.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\bin\HUMG-Clothes.DAL.pdb
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csprojResolveAssemblyReference.cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG_Clothes.Admin.Reports.ProductReports.resources
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.csproj.GenerateResource.Cache
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll.licenses
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.dll
+D:\_TN94\Lập trình .NET 2\BAITAP\BTL\20190109\HUMG-Clothes\HUMG-Clothes\obj\Debug\HUMG-Clothes.pdb
